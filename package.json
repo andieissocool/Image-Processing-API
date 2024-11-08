@@ -21,6 +21,7 @@
     "@types/express": "^5.0.0",
     "@types/jasmine": "^5.1.4",
     "@types/node": "^22.8.7",
+    "@types/sharp": "^0.31.1",
     "@types/supertest": "^6.0.2",
     "eslint": "^9.14.0",
     "eslint-config-prettier": "^9.1.0",
